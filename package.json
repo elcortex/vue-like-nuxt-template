@@ -1,6 +1,6 @@
 {
   "name": "vue-like-nuxt-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue 3 template with Vite, Pinia, tailwind and filesystem like Nuxt",
   "license": "MIT",
   "scripts": {
