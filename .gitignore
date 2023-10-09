@@ -1,0 +1,8 @@
+dist
+node_modules
+.vscode
+
+components.d.ts
+auto-imports.d.ts
+yarn.lock
+package-lock.json
